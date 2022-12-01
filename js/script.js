@@ -164,11 +164,11 @@ var wow = new WOW({
 wow.init();
 
 var images = new Array(
-	'images/backgrounds/rock-n-roll-monkey.jpg',
-	'images/backgrounds/ai-bg-1.jpg',
-	'images/backgrounds/ai-bg-2.jpg',
-	'images/backgrounds/ai-bg-3.jpg',
-	'images/backgrounds/ai-bg-4.jpg',
+	'images/backgrounds/1.jpg',
+	'images/backgrounds/2.jpg',
+	'images/backgrounds/3.jpg',
+	'images/backgrounds/4.jpg',
+	'images/backgrounds/5.jpg',
   );
   
   var slider = setInterval(function() {
