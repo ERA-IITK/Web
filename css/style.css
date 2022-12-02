@@ -2191,7 +2191,7 @@ blockquote {
 
 .era-bg-img::before {
   font-size:50%;
-  background-image: url('images/backgrounds/1.jpg');
+  background-image: url('images/backgrounds/3.jpg');
   animation: era-text-animate infinite 10s;
   padding-left: 10px;
 }
